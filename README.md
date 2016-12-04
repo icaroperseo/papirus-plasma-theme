@@ -5,7 +5,7 @@ available](https://github.com/PapirusDevelopmentTeam/ARCHIVE), keep this in
 consideration.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-plasma-theme/master/preview.png" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/icaroperseo/papirus-plasma-theme/master/preview.png" alt="preview"/>
 </p>
 
 ## Install
